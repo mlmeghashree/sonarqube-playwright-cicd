@@ -1,0 +1,10 @@
+{
+  "name": "sauce-vulnerability-cicd",
+  "scripts": { "test": "npx playwright test" },
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.0",
+    "dotenv": "^16.4.5"
+  }
+}
